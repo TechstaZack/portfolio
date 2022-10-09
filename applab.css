@@ -1,0 +1,17 @@
+#background {
+    background:linear-gradient(green 0%, rgb(0, 174, 0) 50%, rgb(0, 218, 0) 100%);
+
+}
+
+.welcometext {
+    font-family: 'Rock Salt', cursive;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+.heading {
+    font-family: 'Noto Sans Mono', monospace;
+    font-size: 40px;
+}

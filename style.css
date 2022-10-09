@@ -1,0 +1,21 @@
+#background {
+    background:linear-gradient(aqua 0%, aquamarine 50%, cyan 100%);
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+.welcometext {
+    font-family: 'Rock Salt', cursive;
+}
+
+.heading {
+    font-family: 'Silkscreen', cursive;
+    font-size: 40px;
+}

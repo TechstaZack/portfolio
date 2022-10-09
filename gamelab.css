@@ -1,0 +1,13 @@
+#background {
+    background:linear-gradient(rgb(106, 0, 255) 0%, rgb(68, 0, 164) 50%, rgb(45, 0, 107) 100%);
+
+}
+
+.welcometext {
+    font-family: 'Rock Salt', cursive;
+}
+
+h2 {
+    font-size: 25px;
+}
+

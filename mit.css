@@ -1,0 +1,13 @@
+#background {
+    background:linear-gradient(rgb(255, 0, 208) 0%, rgb(182, 0, 149) 50%, rgb(133, 0, 108) 100%);
+
+}
+
+.welcometext {
+    font-family: 'Rock Salt', cursive;
+}
+
+.heading {
+    font-family: 'Gemunu Libre', sans-serif;
+    font-size: 40px;
+}

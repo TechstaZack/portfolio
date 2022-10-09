@@ -1,0 +1,72 @@
+.menu {
+    width: 100%;
+    position:fixed;
+    z-index: 10;
+    list-style: none;
+    top: 0px;
+    margin-top: 0px;
+    background-color: white;
+}
+
+.links {
+    display: inline;
+    font-size: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-family: 'Gemunu Libre', sans-serif;
+    
+}
+
+a {
+    text-decoration: none;
+    color:blueviolet;
+}
+
+.links:hover {
+    font-size: 40;
+}
+
+.links:hover a {
+    color:blue;
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.line {
+    height: 6px;
+    width:70px;
+    background-color: black;
+    margin: 8px auto;
+}
+
+.implink {
+    color:blue !important;
+    text-decoration: underline !important;
+}
+
+.button {
+    font-size: 20px;
+    border-style: solid;
+    border-color: darkblue;
+    border-width: 2px;
+    border-radius:20px;
+    padding: 10px;
+    text-decoration:none;
+    color:darkblue !important;
+}
+
+.desc {
+    font-size: 20px;
+}
+
+.borderiframe {
+    border: 10px black solid;
+}
